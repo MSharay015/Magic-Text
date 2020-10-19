@@ -1,2 +1,2 @@
 # Magic-Text
-A simple animation thats outputs a colourful text with special effects ( outputs pre-written script ).
+Please run this on vs code, pythonista etc... 
